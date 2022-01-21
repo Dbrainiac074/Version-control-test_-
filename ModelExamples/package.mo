@@ -1,2 +1,3 @@
-ModelExamples "Test library for version-control tutorial"
-ModelExamples;
+within ;
+package ModelExamples
+end ModelExamples;
